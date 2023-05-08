@@ -1,0 +1,33 @@
+body {
+  font-family: monospace;
+  color: blueviolet;
+}
+.container {
+  top: 500px;
+  max-width: 500px;
+  text-align: center;
+
+  border-radius: 5px;
+}
+.container h3 {
+  font-size: 34px;
+}
+.container input {
+  display: inline;
+}
+
+.location-button {
+  border-radius: 20px;
+  box-shadow: 2px, 5px;
+  color: white;
+  background-color: pink;
+}
+.container .button {
+  background: rgb(74, 182, 244);
+  color: white;
+  display: inline;
+}
+#submit-button {
+  display: relative;
+  top: 100px;
+}
