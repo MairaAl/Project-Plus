@@ -31,3 +31,6 @@ body {
   display: relative;
   top: 100px;
 }
+.linkRepository {
+  text-align: center;
+}
